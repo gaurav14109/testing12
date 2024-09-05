@@ -1,3 +1,0 @@
-{"level":"http","message":"GET /api/requests?vertical_name=MIS&status=Approved&assigned_to=Abhishek@gmail.com&limit=5&offset=0 200 1680 - 6.260 ms ::ffff:127.0.0.1\n","service":"general-purpose","timestamp":"2024-09-01T23:14:32.878Z"}
-{"level":"http","message":"GET /api/requests?vertical_name=MIS&status=Approved&assigned_to=Abhishek@gmail.com&limit=5&offset=0 304 - - 3.795 ms ::ffff:127.0.0.1\n","service":"general-purpose","timestamp":"2024-09-01T23:14:32.885Z"}
-{"level":"http","message":"GET /api/requests/requestHistory/163 200 298 - 1.962 ms ::ffff:127.0.0.1\n","service":"general-purpose","timestamp":"2024-09-01T23:14:34.212Z"}

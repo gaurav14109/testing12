@@ -61,7 +61,7 @@ const connectToHDFS = async () => {
             })
 
             remoteStream.on('finish', () => {
-                console.log('upload done')
+                console.log('upload dones')
             })
 
 
